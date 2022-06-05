@@ -1,4 +1,4 @@
-#Batalla naval (juego)
+# Batalla naval (juego)
 ##### Nava Arenas Gonzalo Hazel
 Juego de batalla naval usando html, java Script y css
 
@@ -8,4 +8,5 @@ Juego de batalla naval usando html, java Script y css
 - navegador web: chrome, edge, zafari, firzilla, etc.
 
 Previsualizacion:
-![Previsualizacion](/naval/img/pre.jpg)
+
+![Previsualizacion](https://github.com/GonzaloHazel/Pnaval/blob/main/img/pre.jpg)
